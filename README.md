@@ -1,5 +1,5 @@
 # Recover
-<h3>Implement a program that recovers JPEGs from a forensic image, per the below.</h3>
+<h3>Implements a program that recovers JPEGs from a forensic image, per the below.</h3>
 $ ./recover card.raw
 
 <h2><bold>Background</bold></h2>
