@@ -3,7 +3,7 @@
 $ ./recover card.raw
 
 <h2><bold>Background</bold></h2>
-In anticipation of this problem, I spent the past several days taking photos of people I know, all of which were saved on a digital camera as JPEGs on a memory card. (Okay, it’s possible I actually spent the past several days on Facebook instead.) Unfortunately, we somehow deleted them all! Thankfully, in the computer world, “deleted” tends not to mean “deleted” so much as “forgotten.” Even though the camera insists that the card is now blank, I am pretty sure that’s not quite true. Indeed, I am hoping (er, expecting!) I can write a program that recovers the photos for us!
+In anticipation of this problem, I spent the past several days taking photos of people I know, all of which were saved on a digital camera as JPEGs on a memory card. (Okay, it’s possible I actually spent the past several days on Facebook instead.) Unfortunately, I somehow deleted them all! Thankfully, in the computer world, “deleted” tends not to mean “deleted” so much as “forgotten.” Even though the camera insists that the card is now blank, I am pretty sure that’s not quite true. Indeed, I am hoping (er, expecting!) I can write a program that recovers the photos for !
 
 Even though JPEGs are more complicated than BMPs, JPEGs have “signatures,” patterns of bytes that can distinguish them from other file formats. Specifically, the first three bytes of JPEGs are
 
